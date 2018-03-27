@@ -1,5 +1,4 @@
 # DropBookmarks
-
 How to start the DropBookmarks application
 ---
 
