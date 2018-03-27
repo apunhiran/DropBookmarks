@@ -1,0 +1,11 @@
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/resources/UserResource.java
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/auth/DBAuthenticator.java
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/DropBookmarksConfiguration.java
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/resources/BookmarksResource.java
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/resources/HelloResource.java
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/core/Bookmarks.java
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/core/User.java
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/DropBookmarksApplication.java
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/db/BookmarksDAO.java
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/db/UserDAO.java
+/Users/apun.hiran/personal-repos/DropBookmarks/src/main/java/com/udemy/dropbookmarks/auth/HelloAuthenticator.java
